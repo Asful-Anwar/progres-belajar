@@ -24,5 +24,5 @@ Sekitar 2 bulan yang lalu, saya mengikuti bootcamp yang diadakan oleh sekolah, y
 saya mempelajari bahasa Golang sampai sekarang dengan progres seperti berikut:
 
 * Belajar tentang apa itu Golang dan kenapa saya harus mempelajarinya.
-* Tools yang dapat digunakan untuk menjalankan Golang
+* Tools yang dapat digunakan untuk menjalankan Golang. <br>
 Dan banyak hal lainnya, saya akan terus mempelajari Golang dan tetap melangkah maju
